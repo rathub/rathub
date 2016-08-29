@@ -1,0 +1,25 @@
+{
+  "name": "rathub",
+  "version": "0.0.1",
+  "description": "RatHub is a fansite of Transformice",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rathub/rathub.git"
+  },
+  "author": "Ramon Rodrigues <ramon@medcci.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rathub/rathub/issues"
+  },
+  "homepage": "https://github.com/rathub/rathub#readme",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "boom": "^4.0.0",
+    "hapi": "^15.0.2",
+    "request": "^2.74.0"
+  }
+}
