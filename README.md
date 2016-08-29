@@ -1,6 +1,9 @@
 # [RatHub](http://medcci.net/)
 > RatHub is a fansite of Transformice
 
+### Try demo
+[Click here](http://medcci.net/)
+
 ### GET profile/{nickname}/{language}
 ```
 {
