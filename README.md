@@ -1,5 +1,5 @@
 # [RatHub](http://medcci.net/)
-> RatHub is a fansite of Transformice
+> RatHub is a fan site of Transformice statistics
 
 ### Try demo
 [Click here](http://medcci.net/)
